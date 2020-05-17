@@ -1,0 +1,9 @@
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\bin\Debug\Your IP.exe.config
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\bin\Debug\Your IP.exe
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\bin\Debug\Your IP.pdb
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\obj\Debug\Your IP.csprojResolveAssemblyReference.cache
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\obj\Debug\Your_IP.Form1.resources
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\obj\Debug\Your_IP.Properties.Resources.resources
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\obj\Debug\Your IP.csproj.GenerateResource.Cache
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\obj\Debug\Your IP.exe
+E:\#MUSTFA JAWAD\Visual Studio project\Your IP\Your IP\obj\Debug\Your IP.pdb
